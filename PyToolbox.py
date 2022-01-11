@@ -215,7 +215,7 @@ class Toolbox():
         cmds.tabLayout( self.tabs, edit=True, tabLabel=((self.child1, 'Modelling'), (self.child2, 'Rigging'), (self.child3, 'Utility')) )
         
 
-test
+
 
     #functions
 
